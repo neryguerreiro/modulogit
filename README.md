@@ -1,1 +1,1 @@
-Projeto apredendo git com o comando diff.
+Projeto apredendo git com o comando diff. (alterado e atualizado)
